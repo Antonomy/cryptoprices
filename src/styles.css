@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 2em;
+    width: 100vw;
+  }
+  
+  .nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .App{
+    display: flex;
+    flex-direction: column;
+    background-color: #fdfcf1;
+    font-size: 24px;
+    align-items: center;
+
+  }
