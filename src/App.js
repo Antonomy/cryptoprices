@@ -8,7 +8,7 @@ export default function App () {
   // We will use the Route component to specify each route
   return (
     <div className='App'>
-      <Nav/>
+      <Nav />
       <Routes>
         <Route path='/currencies' element={<Currencies />} />
         <Route path='/price/:symbol' element={<Price />} />

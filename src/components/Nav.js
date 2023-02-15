@@ -1,11 +1,11 @@
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom'
 
-export default function Nav (props){
+export default function Nav (props) {
   return (
-    <div className="nav">
-      <Link to="/currencies">
+    <div className='nav'>
+      <Link to='/currencies'>
         <div>CURRENCIES</div>
       </Link>
     </div>
-  );
+  )
 };
