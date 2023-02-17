@@ -7,6 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 
 const root = createRoot(document.getElementById('root'))
 
+
 // Wrap the App Component with the Router component to enable the router features
 root.render(
   <StrictMode>

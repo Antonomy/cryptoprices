@@ -1,7 +1,7 @@
 {
-  "name": "Jeopardy",
+  "name": "Cryptoprices",
   "version": "0.1.0",
-  "homepage": "https://antonomy.github.io/jeopardy",
+  "homepage": "https://antonomy.github.io/cryptoprices",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
